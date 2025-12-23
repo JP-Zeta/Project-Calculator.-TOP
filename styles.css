@@ -35,6 +35,9 @@ body {
     display: flex;
     justify-content: flex-end;
     align-items: center;
+    word-wrap: break-word;
+    word-break: break-all;
+    font-size: 1.8rem;
 }
 
 /* Grilla de Botones */
