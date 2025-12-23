@@ -4,6 +4,14 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.container {
+    text-align: center;
+}
+
+.container h1 {
+    padding: 2rem;
+}
+
 .container-calculator {
     max-width: 320px; /* Tamaño más real */
     margin: 20px auto;
